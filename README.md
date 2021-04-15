@@ -1,5 +1,5 @@
 # nokia-contacts
-extract contacts from Nokia NBF backup, convert to tabular CSV for easy export
+*extract contacts from Nokia NBF backup, convert to tabular CSV for easy export*
 
 
 **Nokia**: Settings > Sync and Backup > Create Backup > choose "contacts".
